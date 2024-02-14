@@ -7,6 +7,7 @@ This Repo is deticated To My University Data Mining Course Project
 1. ## **Random Forest Classification**
    - The Data was applied to Student Preformance data, to create a RF Classifer to pridect student preformance.
 2. ## **FP-Growth**
+   - The data was used to help the bakery with there sales using an FP-Growth Association Algorithm
 3. ## **Fuzzy C-Mean & Manahatten Distance**
 
 4. ## **[`Data Cleaning Example`]**
